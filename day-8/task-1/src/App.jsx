@@ -17,7 +17,7 @@ function LoginForm() {
     Section: ${section}
     Gender: ${gender}`);
 
-    // Clear all fields after submission
+  
     setName('');
     setEmail('');
     setRollNo('');
