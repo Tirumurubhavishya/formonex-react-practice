@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div className="color-picker-container">
-      <h1>🎨 Custom Name Tag</h1>
+      <h1>Color Picker</h1>
 
       <input
         type="text"
